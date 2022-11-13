@@ -1,0 +1,5 @@
+numpy
+pandas
+klib
+pandas_profiling
+scikit-learn
